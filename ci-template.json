@@ -1,0 +1,8 @@
+{
+    "name": "Basic CI Template",
+    "description": "A simple CI workflow to greet the world and build your project.",
+    "iconName": "terminal",
+    "categories": ["CI", "Learning"],
+    "filePatterns": ["^Dockerfile$", "package.json$", ".*\\.md$"]
+  }
+  
